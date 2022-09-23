@@ -1,0 +1,108 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Petrona&display=swap" rel="stylesheet" /></head><body><div class="v1_2"><div class="v1_3"></div><div class="v3_9"><div class="v1_7"></div><span class="v2_8">VENN</span></div><div class="v1_6"></div><div class="v16_2"></div><span class="v16_3">VENN</span></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 341px;
+  height: 429px;
+  background: rgba(242,242,242,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  overflow: hidden;
+}
+.v1_3 {
+  width: 241px;
+  height: 309px;
+  background: url("../images/v1_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 93px;
+  left: 50px;
+  border: 1px solid rgba(21,21,21,1);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v3_9 {
+  width: 78px;
+  height: 37px;
+  background: url("../images/v3_9.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 366px;
+  left: 182px;
+  overflow: hidden;
+}
+.v1_7 {
+  width: 53px;
+  height: 37px;
+  background: url("../images/v1_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_8 {
+  width: 33px;
+  color: rgba(21,21,21,1);
+  position: absolute;
+  top: 12px;
+  left: 45px;
+  font-family: Petrona;
+  font-weight: Regular;
+  font-size: 12px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_6 {
+  width: 189px;
+  background: rgba(21,21,21,1);
+  opacity: 1;
+  position: absolute;
+  top: 366px;
+  left: 75px;
+  border: 1px solid rgba(21,21,21,1);
+}
+.v16_2 {
+  width: 341px;
+  height: 38px;
+  background: rgba(21,21,21,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v16_3 {
+  width: 73px;
+  color: rgba(21,21,21,1);
+  position: absolute;
+  top: 50px;
+  left: 134px;
+  font-family: Petrona;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+</style>
